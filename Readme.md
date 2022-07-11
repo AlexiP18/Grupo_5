@@ -1,4 +1,4 @@
 #Encabezado
-###Nombre Alessandro Gonzalez
-###Curso 4to 
-### Carrera Software
+### Nombre: Alessandro Gonzalez
+### Curso: 4to 
+### Carrera: Software
